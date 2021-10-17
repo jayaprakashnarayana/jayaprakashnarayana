@@ -16,8 +16,6 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 <br /> 
---- 
-[website]: https://jayaprakashnarayana.dev 
-[linkedin]: https://www.linkedin.com/in/jayaprakashnarayana/
+
 
 
