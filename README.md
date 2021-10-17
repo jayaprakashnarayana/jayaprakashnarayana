@@ -1,4 +1,4 @@
-### Hi there, I'm Jay - aka [jayaprakashnarayana][website] 👋
+### Hi there, I'm Jay - aka [jayaprakashnarayana] 👋
 
 ## I'm a AWS Cloud Engineer, Ex Lead DevOps Engineer, Terraform Developer, and Student!!
 
@@ -16,7 +16,8 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 <br /> 
-[website]: https://jayaprakashnarayana.dev
+--- 
+[website]: https://jayaprakashnarayana.dev 
 [linkedin]: https://www.linkedin.com/in/jayaprakashnarayana/
 
 
