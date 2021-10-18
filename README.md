@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to F1 , Motogp.
 
 <br />
-
+---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to thrive in Chaos ](https://jayaprakashnarayana.dev/thrive_in_chaos.html)
