@@ -1,8 +1,8 @@
 ### Hi there, I'm Jay - aka [jayaprakashnarayana] 👋
 
-## I'm AWS Cloud Engineer, Ex Lead DevOps Engineer, Terraform Developer !!
+## I'm Sr.AWS Cloud Engineer, Ex Lead DevOps Engineer, Terraform Developer !!
 
-- 🔭 AWS Cloud Engineer @Equality Health - Phoenix !
+- 🔭 Sr.AWS Cloud Engineer @CDW- Phoenix !
 - 🌱 I’m currently learning programming to build Mindful Autonomous Robots. 
 - 🥅 2021 Goals: Write Applied DevOps Book.
 - 🥅 2022 Goals: Create My First Robotics Project.
