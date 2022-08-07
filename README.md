@@ -4,7 +4,7 @@
 
 - 🔭 Sr.AWS Cloud Engineer @CDW- Phoenix !
 - 🌱 I’m currently learning programming to build Mindful Autonomous Robots. 
-- 🥅 2021 Goals: Write Applied DevOps Book.
+- 🥅 2022 Goals: Write Applied DevOps Book.
 - 🥅 2022 Goals: Create My First Robotics Project.
 - ⚡ Fun fact: I love to F1 , Motogp.
 
