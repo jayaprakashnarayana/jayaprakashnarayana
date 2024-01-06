@@ -4,8 +4,8 @@
 
 - 🔭 Sr.AWS Cloud Engineer @CDW- New Hamshire !
 - 🌱 I’m currently learning programming to build Mindful Autonomous Robots. 
-- 🥅 2023 Goals: Write Applied DevOps Book.
-- 🥅 2023 Goals: Create My First Robotics Project.
+- 🥅 2024 Goals: Write Applied DevOps Book.
+- 🥅 2024 Goals: Create My First Robotics Project.
 - ⚡ Fun fact: I love to F1 , Motogp.
 
 <br />
