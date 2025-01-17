@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning programming to build Mindful Autonomous Robots. 
 - 🥅 2025 Goals: Write Art of Cloud Computing Book.
 - 🥅 2025 Goals: Create My First AI Project.
-- ⚡ Fun fact: I love to F1 , Motogp.
+- ⚡ Fun fact: I love F1 , Motogp.
 
 <br />
 
