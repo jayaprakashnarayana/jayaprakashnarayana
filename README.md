@@ -2,7 +2,7 @@
 
 ## I'm The Sr Cloud Engineer, Ex Lead DevOps Engineer, Hashicorp Tools Developer !!
 
-- 🔭 Sr.AWS Cloud Engineer - New Hamshire ! 
+- 🔭 Sr.AWS Cloud Engineer - New Hampshire ! 
 - 🌱 I’m currently learning programming to build Mindful Autonomous Robots. 
 - 🥅 2025 Goals: Write Art of Cloud Computing Book.
 - 🥅 2025 Goals: Create My First AI Project.
