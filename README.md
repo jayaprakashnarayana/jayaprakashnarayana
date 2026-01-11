@@ -4,8 +4,8 @@
 
 - 🔭 Sr.AWS Cloud Engineer - New Hampshire ! 
 - 🌱 I’m currently learning programming to build Mindful Autonomous Robots. 
-- 🥅 2025 Goals: Write Art of Cloud Computing Book.
-- 🥅 2025 Goals: Create My First AI Project.
+- 🥅 2026 Goals: Write Art of Cloud Computing Book.
+- 🥅 2026 Goals: Create My First AI Project.
 - ⚡ Fun fact: I love F1 , Motogp.
 
 <br />
